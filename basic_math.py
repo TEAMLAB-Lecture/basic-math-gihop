@@ -1,5 +1,3 @@
-import numpy as np
-
 def get_greatest(number_list):
     greatest_number = number_list[0]
     for number in number_list:
